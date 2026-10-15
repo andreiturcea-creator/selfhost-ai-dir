@@ -282,9 +282,6 @@ If this ever changes, for example if we add analytics or ads, we will list every
 Source: https://ai.andreiturcea.com/
 Last updated: 2026-10-15
 
-Open-source AI you can run yourself
-
-# Self-hostable AI tools, ranked and kept fresh
 
 **Short answer:** SelfHostAI lists 16 open-source AI tools you can run on your own machine or VPS, such as Ollama, Open WebUI, vLLM, llama.cpp, n8n, Dify and Qdrant, with licence, category and GitHub link for each.
 
