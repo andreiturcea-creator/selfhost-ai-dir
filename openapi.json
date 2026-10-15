@@ -1,0 +1,29 @@
+{
+ "openapi": "3.1.0",
+ "info": {
+  "title": "SelfHostAI static data",
+  "version": "2026-10-15",
+  "description": "Static, read-only JSON files. No authentication, no parameters."
+ },
+ "servers": [
+  {
+   "url": "https://andreiturcea-creator.github.io/selfhost-ai-dir"
+  }
+ ],
+ "paths": {
+  "/api/tools.json": {
+   "get": {
+    "operationId": "getData",
+    "summary": "All listed self-hostable AI tools with category, licence, GitHub repo and page URL",
+    "responses": {
+     "200": {
+      "description": "JSON document",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  }
+ }
+}

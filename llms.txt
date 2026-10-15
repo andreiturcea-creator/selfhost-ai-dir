@@ -1,0 +1,59 @@
+# SelfHostAI
+
+> A curated directory of open-source AI tools you can self-host (LLM runtimes, chat UIs, agent builders, RAG, vector databases, speech and image generation), with licence, category, GitHub repository and alternatives for each tool, plus comparison guides.
+
+Last updated 2026-10-15. Every page has a Markdown twin at the same URL plus `.md`. Information only, not financial or tax advice.
+
+## Guides
+
+- [Best self-hosted ChatGPT alternatives (2026)](https://andreiturcea-creator.github.io/selfhost-ai-dir/best-self-hosted-chatgpt-alternatives.html.md): Open-source, self-hostable ChatGPT alternatives: Open WebUI, LibreChat, AnythingLLM, Jan and the runtimes behind them.
+- [Ollama vs llama.cpp vs vLLM: which local LLM runtime?](https://andreiturcea-creator.github.io/selfhost-ai-dir/ollama-vs-llama-cpp-vs-vllm.html.md): Compare Ollama, llama.cpp and vLLM for running LLMs locally or on a server.
+- [Open WebUI vs LibreChat vs AnythingLLM (self-hosted chat UIs)](https://andreiturcea-creator.github.io/selfhost-ai-dir/open-webui-vs-librechat-vs-anythingllm.html.md): Compare three popular self-hosted AI chat interfaces by use case and licence.
+
+## Pages
+
+- [Advertise](https://andreiturcea-creator.github.io/selfhost-ai-dir/advertise.html.md): Sponsor
+- [Self-Hosted AI Tools Directory](https://andreiturcea-creator.github.io/selfhost-ai-dir/index.html.md): A curated directory of open-source AI tools you can self-host, refreshed every day.
+
+## Tools
+
+- [AnythingLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html.md): How to self-host AnythingLLM: requirements, licence and alternatives.
+- [ComfyUI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-comfyui.html.md): How to self-host ComfyUI: requirements, licence and alternatives.
+- [Dify](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-dify.html.md): How to self-host Dify: requirements, licence and alternatives.
+- [Flowise](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-flowise.html.md): How to self-host Flowise: requirements, licence and alternatives.
+- [Jan](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-jan.html.md): How to self-host Jan: requirements, licence and alternatives.
+- [Langfuse](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-langfuse.html.md): How to self-host Langfuse: requirements, licence and alternatives.
+- [LibreChat](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-librechat.html.md): How to self-host LibreChat: requirements, licence and alternatives.
+- [llama.cpp](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-llama.cpp.html.md): How to self-host llama.cpp: requirements, licence and alternatives.
+- [LocalAI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-localai.html.md): How to self-host LocalAI: requirements, licence and alternatives.
+- [n8n](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-n8n.html.md): How to self-host n8n: requirements, licence and alternatives.
+- [Ollama](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-ollama.html.md): How to self-host Ollama: requirements, licence and alternatives.
+- [Open WebUI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-open-webui.html.md): How to self-host Open WebUI: requirements, licence and alternatives.
+- [Perplexica](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-perplexica.html.md): How to self-host Perplexica: requirements, licence and alternatives.
+- [Qdrant](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-qdrant.html.md): How to self-host Qdrant: requirements, licence and alternatives.
+- [vLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-vllm.html.md): How to self-host vLLM: requirements, licence and alternatives.
+- [Whisper.cpp](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-whisper.cpp.html.md): How to self-host Whisper.cpp: requirements, licence and alternatives.
+
+## Categories
+
+- [Best self-hosted Agent builder tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-agent-builder.html.md): Open-source Agent builder tools you can self-host.
+- [Best self-hosted Automation tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-automation.html.md): Open-source Automation tools you can self-host.
+- [Best self-hosted Chat UI tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-chat-ui.html.md): Open-source Chat UI tools you can self-host.
+- [Best self-hosted Image gen tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-image-gen.html.md): Open-source Image gen tools you can self-host.
+- [Best self-hosted LLM runtime tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-llm-runtime.html.md): Open-source LLM runtime tools you can self-host.
+- [Best self-hosted Observability tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-observability.html.md): Open-source Observability tools you can self-host.
+- [Best self-hosted RAG tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-rag.html.md): Open-source RAG tools you can self-host.
+- [Best self-hosted Search tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-search.html.md): Open-source Search tools you can self-host.
+- [Best self-hosted Speech tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-speech.html.md): Open-source Speech tools you can self-host.
+- [Best self-hosted Vector DB tools](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-vector-db.html.md): Open-source Vector DB tools you can self-host.
+
+## Data
+
+- [api/tools.json](https://andreiturcea-creator.github.io/selfhost-ai-dir/api/tools.json): All listed self-hostable AI tools with category, licence, GitHub repo and page URL
+- [openapi.json](https://andreiturcea-creator.github.io/selfhost-ai-dir/openapi.json): OpenAPI 3.1 description of the static JSON file
+- [llms-full.txt](https://andreiturcea-creator.github.io/selfhost-ai-dir/llms-full.txt): full plain-text content of every page
+
+## Optional
+
+- [About](https://andreiturcea-creator.github.io/selfhost-ai-dir/about.html.md): who runs the site and disclosures
+- [Sitemap](https://andreiturcea-creator.github.io/selfhost-ai-dir/sitemap.xml): all URLs
