@@ -1,4 +1,4 @@
-# SelfHostAI — full content
+# SelfHostAI: full content
 
 > A curated directory of open-source AI tools you can self-host (LLM runtimes, chat UIs, agent builders, RAG, vector databases, speech and image generation), with licence, category, GitHub repository and alternatives for each tool, plus comparison guides.
 
@@ -30,6 +30,38 @@ Last updated: 2026-10-15
 Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/advertise.html.md)
 
 £49/month: pinned, labelled 'Featured', plus one newsletter mention. Payments coming soon. Bookings are not open yet. Open-source tools only. We reserve the right to decline.
+
+
+<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html -->
+# Affiliate disclosure | SelfHostAI
+
+Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html
+Last updated: 2026-10-15
+
+
+**Short answer:** How SelfHostAI labels affiliate and referral links.
+
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html.md)
+
+Last updated 15 October 2026.
+
+SelfHostAI is free to use. To help pay for it, some links may be **affiliate or referral links**. If you click one and sign up or buy, we may earn a commission or credit, at no extra cost to you.
+
+## How we label them
+
+- Every affiliate or referral link is marked Affiliate link next to the link itself, not only on this page.
+- These links carry rel="sponsored" so search engines know they are paid links.
+- **Featured listings.** If we sell featured listings in future, they will be labelled 'Featured' or 'Sponsored'.
+
+## What it does not change
+
+Commissions never change calculator results, figures, rankings or what we write. Tool details come from each project's public GitHub repository. We only link to services we think are relevant, and you can always go to a provider directly instead.
+
+## Current partners
+
+We list partner links only once a programme has approved us. Right now there are none.
+
+This follows the UK CAP Code and ASA guidance that marketing must be obviously identifiable. See also our [privacy notice](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html).
 
 
 <!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/best-self-hosted-chatgpt-alternatives.html -->
@@ -224,6 +256,26 @@ Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check
 **Qdrant**: Vector database.
 
 
+<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html -->
+# Cookies | SelfHostAI
+
+Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html
+Last updated: 2026-10-15
+
+
+**Short answer:** Cookie notice for SelfHostAI: the site sets no cookies.
+
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html.md)
+
+Last updated 15 October 2026.
+
+**SelfHostAI does not set any cookies** and does not use similar technologies such as local storage, tracking pixels or fingerprinting. There is no analytics or advertising code on the site, so there is no cookie banner.
+
+The site is hosted on GitHub Pages, which serves static files and does not set cookies on these pages. If you click through to another site (for example Gumroad, GitHub or a partner), that site may set its own cookies under its own policy once you are there.
+
+If this ever changes, for example if we add analytics or ads, we will list every cookie here and ask for your consent before setting any that are not strictly necessary, as the Privacy and Electronic Communications Regulations (PECR) require. See also our [privacy notice](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html).
+
+
 <!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/index.html -->
 # Self-Hosted AI Tools Directory | SelfHostAI
 
@@ -361,6 +413,38 @@ AnythingLLM is built around RAG over your files. Open WebUI also offers document
 ### Which is fully MIT licensed?
 
 LibreChat and AnythingLLM are listed as MIT. Open WebUI is listed as BSD-3; check its repository for any branding terms.
+
+
+<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html -->
+# Privacy | SelfHostAI
+
+Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html
+Last updated: 2026-10-15
+
+
+**Short answer:** Privacy notice for SelfHostAI: no analytics, no ads, no personal data collected.
+
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html.md)
+
+Last updated 15 October 2026. This notice explains what happens to your information when you use SelfHostAI.
+
+## The short version
+
+We do not ask for your name or email, we do not run analytics or advertising, and we do not set cookies. Anything you type into a calculator or filter box stays in your browser and is not sent to us.
+
+## What is collected
+
+- **Hosting.** The site is a static site hosted on GitHub Pages. Like any web host, GitHub receives technical data such as your IP address and browser details when your browser requests a page, and may keep it in server logs for security. See the [GitHub Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement). We cannot see those logs.
+- **Calculators and filters.** These run entirely in your browser with JavaScript. Nothing is stored or transmitted.
+- **Links to other sites.** When you follow a link to another site (for example GOV.UK, GitHub or a partner), that site's own privacy policy applies.
+
+## Changes
+
+If we ever add analytics, a newsletter, ads or anything else that collects personal data, we will update this page and the [cookies page](https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html) first, and ask for consent where the law requires it.
+
+## Your rights and contact
+
+Under UK GDPR you have rights over your personal data, including access and deletion. As we hold no personal data from browsing, there is normally nothing for us to give you. To get in touch, open an issue on the site's [GitHub repository](https://github.com/andreiturcea-creator/selfhost-ai-dir/issues) (issues are public, so do not include private details). You can also complain to the [Information Commissioner's Office](https://ico.org.uk/make-a-complaint/).
 
 
 <!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html -->

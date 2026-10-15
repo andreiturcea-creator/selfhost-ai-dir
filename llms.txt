@@ -56,4 +56,7 @@ Last updated 2026-10-15. Every page has a Markdown twin at the same URL plus `.m
 ## Optional
 
 - [About](https://andreiturcea-creator.github.io/selfhost-ai-dir/about.html.md): who runs the site and disclosures
+- [Privacy](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html.md): privacy notice (no analytics, no ads, no personal data collected)
+- [Cookies](https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html.md): cookie notice (no cookies set)
+- [Affiliate disclosure](https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html.md): how affiliate and referral links are labelled
 - [Sitemap](https://andreiturcea-creator.github.io/selfhost-ai-dir/sitemap.xml): all URLs
