@@ -1,0 +1,146 @@
+[
+ {
+  "name": "Ollama",
+  "desc": "Run LLMs locally with a single command.",
+  "repo": "ollama/ollama",
+  "cat": "LLM runtime",
+  "license": "MIT",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "Open WebUI",
+  "desc": "ChatGPT-style interface for local and API models.",
+  "repo": "open-webui/open-webui",
+  "cat": "Chat UI",
+  "license": "BSD-3",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "LocalAI",
+  "desc": "OpenAI-compatible API server for local models.",
+  "repo": "mudler/LocalAI",
+  "cat": "LLM runtime",
+  "license": "MIT",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "vLLM",
+  "desc": "High-throughput LLM serving engine.",
+  "repo": "vllm-project/vllm",
+  "cat": "LLM runtime",
+  "license": "Apache-2.0",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "llama.cpp",
+  "desc": "LLM inference in C/C++, runs on CPU.",
+  "repo": "ggml-org/llama.cpp",
+  "cat": "LLM runtime",
+  "license": "MIT",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "n8n",
+  "desc": "Workflow automation with AI agent nodes; fair-code licence.",
+  "repo": "n8n-io/n8n",
+  "cat": "Automation",
+  "license": "Sustainable Use",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "Dify",
+  "desc": "LLM app and agent builder platform.",
+  "repo": "langgenius/dify",
+  "cat": "Agent builder",
+  "license": "Apache-2.0 (modified)",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "Flowise",
+  "desc": "Drag-and-drop LLM flows.",
+  "repo": "FlowiseAI/Flowise",
+  "cat": "Agent builder",
+  "license": "Apache-2.0",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "AnythingLLM",
+  "desc": "All-in-one RAG desktop and Docker app.",
+  "repo": "Mintplex-Labs/anything-llm",
+  "cat": "RAG",
+  "license": "MIT",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "ComfyUI",
+  "desc": "Node-based image and video diffusion UI.",
+  "repo": "comfyanonymous/ComfyUI",
+  "cat": "Image gen",
+  "license": "GPL-3.0",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "Whisper.cpp",
+  "desc": "Local speech-to-text.",
+  "repo": "ggml-org/whisper.cpp",
+  "cat": "Speech",
+  "license": "MIT",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "LibreChat",
+  "desc": "Multi-provider chat UI with agents.",
+  "repo": "danny-avila/LibreChat",
+  "cat": "Chat UI",
+  "license": "MIT",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "Langfuse",
+  "desc": "LLM observability and evals.",
+  "repo": "langfuse/langfuse",
+  "cat": "Observability",
+  "license": "MIT (core)",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "Qdrant",
+  "desc": "Vector database.",
+  "repo": "qdrant/qdrant",
+  "cat": "Vector DB",
+  "license": "Apache-2.0",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "Jan",
+  "desc": "Offline ChatGPT alternative desktop app.",
+  "repo": "janhq/jan",
+  "cat": "Chat UI",
+  "license": "Apache-2.0",
+  "stars": null,
+  "last_commit": null
+ },
+ {
+  "name": "Perplexica",
+  "desc": "Self-hosted AI search engine.",
+  "repo": "ItzCrazyKns/Perplexica",
+  "cat": "Search",
+  "license": "MIT",
+  "stars": null,
+  "last_commit": null
+ }
+]
