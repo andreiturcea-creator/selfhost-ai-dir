@@ -1,11 +1,11 @@
 # Best self-hosted Speech tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-speech.html
+Source: https://ai.andreiturcea.com/cat-speech.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Speech tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-speech.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-speech.html.md)
 
 **Whisper.cpp**: Local speech-to-text.

@@ -45,4 +45,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://andreiturcea-creator.github.io/selfhost-ai-dir/sitemap.xml
+Sitemap: https://ai.andreiturcea.com/sitemap.xml

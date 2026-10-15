@@ -1,12 +1,12 @@
 # Affiliate disclosure | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html
+Source: https://ai.andreiturcea.com/affiliate-disclosure.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How SelfHostAI labels affiliate and referral links.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/affiliate-disclosure.html.md)
 
 Last updated 15 October 2026.
 
@@ -26,4 +26,4 @@ Commissions never change calculator results, figures, rankings or what we write.
 
 We list partner links only once a programme has approved us. Right now there are none.
 
-This follows the UK CAP Code and ASA guidance that marketing must be obviously identifiable. See also our [privacy notice](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html).
+This follows the UK CAP Code and ASA guidance that marketing must be obviously identifiable. See also our [privacy notice](https://ai.andreiturcea.com/privacy.html).

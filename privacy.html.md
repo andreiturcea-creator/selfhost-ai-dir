@@ -1,12 +1,12 @@
 # Privacy | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html
+Source: https://ai.andreiturcea.com/privacy.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Privacy notice for SelfHostAI: no analytics, no ads, no personal data collected.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/privacy.html.md)
 
 Last updated 15 October 2026. This notice explains what happens to your information when you use SelfHostAI.
 
@@ -22,7 +22,7 @@ We do not ask for your name or email, we do not run analytics or advertising, an
 
 ## Changes
 
-If we ever add analytics, a newsletter, ads or anything else that collects personal data, we will update this page and the [cookies page](https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html) first, and ask for consent where the law requires it.
+If we ever add analytics, a newsletter, ads or anything else that collects personal data, we will update this page and the [cookies page](https://ai.andreiturcea.com/cookies.html) first, and ask for consent where the law requires it.
 
 ## Your rights and contact
 

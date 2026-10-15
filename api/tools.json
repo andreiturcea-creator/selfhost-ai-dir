@@ -12,7 +12,7 @@
    "license": "MIT",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-ollama.html",
+   "page": "https://ai.andreiturcea.com/tool-ollama.html",
    "github": "https://github.com/ollama/ollama"
   },
   {
@@ -23,7 +23,7 @@
    "license": "BSD-3",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-open-webui.html",
+   "page": "https://ai.andreiturcea.com/tool-open-webui.html",
    "github": "https://github.com/open-webui/open-webui"
   },
   {
@@ -34,7 +34,7 @@
    "license": "MIT",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-localai.html",
+   "page": "https://ai.andreiturcea.com/tool-localai.html",
    "github": "https://github.com/mudler/LocalAI"
   },
   {
@@ -45,7 +45,7 @@
    "license": "Apache-2.0",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-vllm.html",
+   "page": "https://ai.andreiturcea.com/tool-vllm.html",
    "github": "https://github.com/vllm-project/vllm"
   },
   {
@@ -56,7 +56,7 @@
    "license": "MIT",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-llama.cpp.html",
+   "page": "https://ai.andreiturcea.com/tool-llama.cpp.html",
    "github": "https://github.com/ggml-org/llama.cpp"
   },
   {
@@ -67,7 +67,7 @@
    "license": "Sustainable Use",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-n8n.html",
+   "page": "https://ai.andreiturcea.com/tool-n8n.html",
    "github": "https://github.com/n8n-io/n8n"
   },
   {
@@ -78,7 +78,7 @@
    "license": "Apache-2.0 (modified)",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-dify.html",
+   "page": "https://ai.andreiturcea.com/tool-dify.html",
    "github": "https://github.com/langgenius/dify"
   },
   {
@@ -89,7 +89,7 @@
    "license": "Apache-2.0",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-flowise.html",
+   "page": "https://ai.andreiturcea.com/tool-flowise.html",
    "github": "https://github.com/FlowiseAI/Flowise"
   },
   {
@@ -100,7 +100,7 @@
    "license": "MIT",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html",
+   "page": "https://ai.andreiturcea.com/tool-anything-llm.html",
    "github": "https://github.com/Mintplex-Labs/anything-llm"
   },
   {
@@ -111,7 +111,7 @@
    "license": "GPL-3.0",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-comfyui.html",
+   "page": "https://ai.andreiturcea.com/tool-comfyui.html",
    "github": "https://github.com/comfyanonymous/ComfyUI"
   },
   {
@@ -122,7 +122,7 @@
    "license": "MIT",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-whisper.cpp.html",
+   "page": "https://ai.andreiturcea.com/tool-whisper.cpp.html",
    "github": "https://github.com/ggml-org/whisper.cpp"
   },
   {
@@ -133,7 +133,7 @@
    "license": "MIT",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-librechat.html",
+   "page": "https://ai.andreiturcea.com/tool-librechat.html",
    "github": "https://github.com/danny-avila/LibreChat"
   },
   {
@@ -144,7 +144,7 @@
    "license": "MIT (core)",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-langfuse.html",
+   "page": "https://ai.andreiturcea.com/tool-langfuse.html",
    "github": "https://github.com/langfuse/langfuse"
   },
   {
@@ -155,7 +155,7 @@
    "license": "Apache-2.0",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-qdrant.html",
+   "page": "https://ai.andreiturcea.com/tool-qdrant.html",
    "github": "https://github.com/qdrant/qdrant"
   },
   {
@@ -166,7 +166,7 @@
    "license": "Apache-2.0",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-jan.html",
+   "page": "https://ai.andreiturcea.com/tool-jan.html",
    "github": "https://github.com/janhq/jan"
   },
   {
@@ -177,7 +177,7 @@
    "license": "MIT",
    "stars": null,
    "last_commit": null,
-   "page": "https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-perplexica.html",
+   "page": "https://ai.andreiturcea.com/tool-perplexica.html",
    "github": "https://github.com/ItzCrazyKns/Perplexica"
   }
  ]

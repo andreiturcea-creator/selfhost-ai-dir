@@ -4,44 +4,44 @@
 
 Generated 2026-10-15. Each section below is one page.
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/about.html -->
+<!-- https://ai.andreiturcea.com/about.html -->
 # About | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/about.html
+Source: https://ai.andreiturcea.com/about.html
 Last updated: 2026-10-15
 
 
 **Short answer:** SelfHostAI is an agent-maintained directory of self-hostable open-source AI tools, using data from the public GitHub API. Sponsored listings are always labelled.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/about.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/about.html.md)
 
 Agent-maintained. Data comes from the public GitHub API. Sponsored listings are always labelled.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/advertise.html -->
+<!-- https://ai.andreiturcea.com/advertise.html -->
 # Advertise | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/advertise.html
+Source: https://ai.andreiturcea.com/advertise.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Featured listings will cost £49 a month and are always labelled 'Featured'. Bookings are not open yet.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/advertise.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/advertise.html.md)
 
 £49/month: pinned, labelled 'Featured', plus one newsletter mention. Payments coming soon. Bookings are not open yet. Open-source tools only. We reserve the right to decline.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html -->
+<!-- https://ai.andreiturcea.com/affiliate-disclosure.html -->
 # Affiliate disclosure | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html
+Source: https://ai.andreiturcea.com/affiliate-disclosure.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How SelfHostAI labels affiliate and referral links.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/affiliate-disclosure.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/affiliate-disclosure.html.md)
 
 Last updated 15 October 2026.
 
@@ -61,33 +61,33 @@ Commissions never change calculator results, figures, rankings or what we write.
 
 We list partner links only once a programme has approved us. Right now there are none.
 
-This follows the UK CAP Code and ASA guidance that marketing must be obviously identifiable. See also our [privacy notice](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html).
+This follows the UK CAP Code and ASA guidance that marketing must be obviously identifiable. See also our [privacy notice](https://ai.andreiturcea.com/privacy.html).
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/best-self-hosted-chatgpt-alternatives.html -->
+<!-- https://ai.andreiturcea.com/best-self-hosted-chatgpt-alternatives.html -->
 # Best self-hosted ChatGPT alternatives (2026) | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/best-self-hosted-chatgpt-alternatives.html
+Source: https://ai.andreiturcea.com/best-self-hosted-chatgpt-alternatives.html
 Last updated: 2026-10-15
 
 
 **Short answer:** The most common self-hosted ChatGPT alternative is Ollama (to run models) plus Open WebUI (the chat interface); LibreChat suits multi-provider setups, AnythingLLM chatting with documents, and Jan a desktop app with no server.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/best-self-hosted-chatgpt-alternatives.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/best-self-hosted-chatgpt-alternatives.html.md)
 
 A self-hosted ChatGPT setup needs two parts: a **model runtime** and a **chat interface**.
 
 | Tool | Type | Licence | Best for |
 |---|---|---|---|
-| [Open WebUI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-open-webui.html) | Chat UI | BSD-3 | ChatGPT-style UI for Ollama and APIs |
-| [LibreChat](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-librechat.html) | Chat UI | MIT | Multi-provider chat with agents |
-| [AnythingLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html) | RAG app | MIT | Chat with your documents |
-| [Jan](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-jan.html) | Desktop app | Apache-2.0 | Offline, no server |
-| [Ollama](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-ollama.html) | Runtime | MIT | One-command local models |
+| [Open WebUI](https://ai.andreiturcea.com/tool-open-webui.html) | Chat UI | BSD-3 | ChatGPT-style UI for Ollama and APIs |
+| [LibreChat](https://ai.andreiturcea.com/tool-librechat.html) | Chat UI | MIT | Multi-provider chat with agents |
+| [AnythingLLM](https://ai.andreiturcea.com/tool-anything-llm.html) | RAG app | MIT | Chat with your documents |
+| [Jan](https://ai.andreiturcea.com/tool-jan.html) | Desktop app | Apache-2.0 | Offline, no server |
+| [Ollama](https://ai.andreiturcea.com/tool-ollama.html) | Runtime | MIT | One-command local models |
 
 ## What does a typical self-hosted stack look like?
 
-Laptop: Jan, or Ollama + Open WebUI. Small team on a VPS: Ollama or [vLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-vllm.html) + LibreChat or Open WebUI, with [Langfuse](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-langfuse.html) for observability. See [Ollama vs llama.cpp vs vLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/ollama-vs-llama-cpp-vs-vllm.html).
+Laptop: Jan, or Ollama + Open WebUI. Small team on a VPS: Ollama or [vLLM](https://ai.andreiturcea.com/tool-vllm.html) + LibreChat or Open WebUI, with [Langfuse](https://ai.andreiturcea.com/tool-langfuse.html) for observability. See [Ollama vs llama.cpp vs vLLM](https://ai.andreiturcea.com/ollama-vs-llama-cpp-vs-vllm.html).
 
 ## Frequently asked questions
 
@@ -104,46 +104,46 @@ Not for small quantised models: llama.cpp and Ollama can run them on CPU, but sl
 Yes. Open WebUI, LibreChat and AnythingLLM can connect to OpenAI-compatible APIs as well as local models.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-agent-builder.html -->
+<!-- https://ai.andreiturcea.com/cat-agent-builder.html -->
 # Best self-hosted Agent builder tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-agent-builder.html
+Source: https://ai.andreiturcea.com/cat-agent-builder.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Agent builder tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-agent-builder.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-agent-builder.html.md)
 
 **Dify**: LLM app and agent builder platform.
 
 **Flowise**: Drag-and-drop LLM flows.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-automation.html -->
+<!-- https://ai.andreiturcea.com/cat-automation.html -->
 # Best self-hosted Automation tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-automation.html
+Source: https://ai.andreiturcea.com/cat-automation.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Automation tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-automation.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-automation.html.md)
 
 **n8n**: Workflow automation with AI agent nodes; fair-code licence.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-chat-ui.html -->
+<!-- https://ai.andreiturcea.com/cat-chat-ui.html -->
 # Best self-hosted Chat UI tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-chat-ui.html
+Source: https://ai.andreiturcea.com/cat-chat-ui.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Chat UI tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-chat-ui.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-chat-ui.html.md)
 
 **Open WebUI**: ChatGPT-style interface for local and API models.
 
@@ -152,30 +152,30 @@ Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check
 **Jan**: Offline ChatGPT alternative desktop app.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-image-gen.html -->
+<!-- https://ai.andreiturcea.com/cat-image-gen.html -->
 # Best self-hosted Image gen tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-image-gen.html
+Source: https://ai.andreiturcea.com/cat-image-gen.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Image gen tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-image-gen.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-image-gen.html.md)
 
 **ComfyUI**: Node-based image and video diffusion UI.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-llm-runtime.html -->
+<!-- https://ai.andreiturcea.com/cat-llm-runtime.html -->
 # Best self-hosted LLM runtime tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-llm-runtime.html
+Source: https://ai.andreiturcea.com/cat-llm-runtime.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source LLM runtime tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-llm-runtime.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-llm-runtime.html.md)
 
 **Ollama**: Run LLMs locally with a single command.
 
@@ -186,86 +186,86 @@ Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check
 **llama.cpp**: LLM inference in C/C++, runs on CPU.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-observability.html -->
+<!-- https://ai.andreiturcea.com/cat-observability.html -->
 # Best self-hosted Observability tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-observability.html
+Source: https://ai.andreiturcea.com/cat-observability.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Observability tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-observability.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-observability.html.md)
 
 **Langfuse**: LLM observability and evals.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-rag.html -->
+<!-- https://ai.andreiturcea.com/cat-rag.html -->
 # Best self-hosted RAG tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-rag.html
+Source: https://ai.andreiturcea.com/cat-rag.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source RAG tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-rag.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-rag.html.md)
 
 **AnythingLLM**: All-in-one RAG desktop and Docker app.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-search.html -->
+<!-- https://ai.andreiturcea.com/cat-search.html -->
 # Best self-hosted Search tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-search.html
+Source: https://ai.andreiturcea.com/cat-search.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Search tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-search.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-search.html.md)
 
 **Perplexica**: Self-hosted AI search engine.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-speech.html -->
+<!-- https://ai.andreiturcea.com/cat-speech.html -->
 # Best self-hosted Speech tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-speech.html
+Source: https://ai.andreiturcea.com/cat-speech.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Speech tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-speech.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-speech.html.md)
 
 **Whisper.cpp**: Local speech-to-text.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-vector-db.html -->
+<!-- https://ai.andreiturcea.com/cat-vector-db.html -->
 # Best self-hosted Vector DB tools | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-vector-db.html
+Source: https://ai.andreiturcea.com/cat-vector-db.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open-source Vector DB tools you can self-host.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-vector-db.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cat-vector-db.html.md)
 
 **Qdrant**: Vector database.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html -->
+<!-- https://ai.andreiturcea.com/cookies.html -->
 # Cookies | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html
+Source: https://ai.andreiturcea.com/cookies.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Cookie notice for SelfHostAI: the site sets no cookies.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/cookies.html.md)
 
 Last updated 15 October 2026.
 
@@ -273,98 +273,98 @@ Last updated 15 October 2026.
 
 The site is hosted on GitHub Pages, which serves static files and does not set cookies on these pages. If you click through to another site (for example Gumroad, GitHub or a partner), that site may set its own cookies under its own policy once you are there.
 
-If this ever changes, for example if we add analytics or ads, we will list every cookie here and ask for your consent before setting any that are not strictly necessary, as the Privacy and Electronic Communications Regulations (PECR) require. See also our [privacy notice](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html).
+If this ever changes, for example if we add analytics or ads, we will list every cookie here and ask for your consent before setting any that are not strictly necessary, as the Privacy and Electronic Communications Regulations (PECR) require. See also our [privacy notice](https://ai.andreiturcea.com/privacy.html).
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/index.html -->
+<!-- https://ai.andreiturcea.com/index.html -->
 # Self-Hosted AI Tools Directory | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/
+Source: https://ai.andreiturcea.com/
 Last updated: 2026-10-15
 
 
 **Short answer:** SelfHostAI lists 16 open-source AI tools you can run on your own machine or VPS, such as Ollama, Open WebUI, vLLM, llama.cpp, n8n, Dify and Qdrant, with licence, category and GitHub link for each.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/index.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/index.html.md)
 
 Open-source AI you can run on your own VPS or laptop. Stars and activity refresh every day from GitHub.
 
-**Featured listings: coming soon** (£49/month, always labelled). [Advertise](https://andreiturcea-creator.github.io/selfhost-ai-dir/advertise.html)
+**Featured listings: coming soon** (£49/month, always labelled). [Advertise](https://ai.andreiturcea.com/advertise.html)
 
-**[Ollama](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-ollama.html)** LLM runtimeMIT
+**[Ollama](https://ai.andreiturcea.com/tool-ollama.html)** LLM runtimeMIT
 Run LLMs locally with a single command. · [GitHub](https://github.com/ollama/ollama)
 
-**[Open WebUI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-open-webui.html)** Chat UIBSD-3
+**[Open WebUI](https://ai.andreiturcea.com/tool-open-webui.html)** Chat UIBSD-3
 ChatGPT-style interface for local and API models. · [GitHub](https://github.com/open-webui/open-webui)
 
-**[LocalAI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-localai.html)** LLM runtimeMIT
+**[LocalAI](https://ai.andreiturcea.com/tool-localai.html)** LLM runtimeMIT
 OpenAI-compatible API server for local models. · [GitHub](https://github.com/mudler/LocalAI)
 
-**[vLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-vllm.html)** LLM runtimeApache-2.0
+**[vLLM](https://ai.andreiturcea.com/tool-vllm.html)** LLM runtimeApache-2.0
 High-throughput LLM serving engine. · [GitHub](https://github.com/vllm-project/vllm)
 
-**[llama.cpp](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-llama.cpp.html)** LLM runtimeMIT
+**[llama.cpp](https://ai.andreiturcea.com/tool-llama.cpp.html)** LLM runtimeMIT
 LLM inference in C/C++, runs on CPU. · [GitHub](https://github.com/ggml-org/llama.cpp)
 
-**[n8n](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-n8n.html)** AutomationSustainable Use
+**[n8n](https://ai.andreiturcea.com/tool-n8n.html)** AutomationSustainable Use
 Workflow automation with AI agent nodes; fair-code licence. · [GitHub](https://github.com/n8n-io/n8n)
 
-**[Dify](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-dify.html)** Agent builderApache-2.0 (modified)
+**[Dify](https://ai.andreiturcea.com/tool-dify.html)** Agent builderApache-2.0 (modified)
 LLM app and agent builder platform. · [GitHub](https://github.com/langgenius/dify)
 
-**[Flowise](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-flowise.html)** Agent builderApache-2.0
+**[Flowise](https://ai.andreiturcea.com/tool-flowise.html)** Agent builderApache-2.0
 Drag-and-drop LLM flows. · [GitHub](https://github.com/FlowiseAI/Flowise)
 
-**[AnythingLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html)** RAGMIT
+**[AnythingLLM](https://ai.andreiturcea.com/tool-anything-llm.html)** RAGMIT
 All-in-one RAG desktop and Docker app. · [GitHub](https://github.com/Mintplex-Labs/anything-llm)
 
-**[ComfyUI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-comfyui.html)** Image genGPL-3.0
+**[ComfyUI](https://ai.andreiturcea.com/tool-comfyui.html)** Image genGPL-3.0
 Node-based image and video diffusion UI. · [GitHub](https://github.com/comfyanonymous/ComfyUI)
 
-**[Whisper.cpp](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-whisper.cpp.html)** SpeechMIT
+**[Whisper.cpp](https://ai.andreiturcea.com/tool-whisper.cpp.html)** SpeechMIT
 Local speech-to-text. · [GitHub](https://github.com/ggml-org/whisper.cpp)
 
-**[LibreChat](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-librechat.html)** Chat UIMIT
+**[LibreChat](https://ai.andreiturcea.com/tool-librechat.html)** Chat UIMIT
 Multi-provider chat UI with agents. · [GitHub](https://github.com/danny-avila/LibreChat)
 
-**[Langfuse](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-langfuse.html)** ObservabilityMIT (core)
+**[Langfuse](https://ai.andreiturcea.com/tool-langfuse.html)** ObservabilityMIT (core)
 LLM observability and evals. · [GitHub](https://github.com/langfuse/langfuse)
 
-**[Qdrant](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-qdrant.html)** Vector DBApache-2.0
+**[Qdrant](https://ai.andreiturcea.com/tool-qdrant.html)** Vector DBApache-2.0
 Vector database. · [GitHub](https://github.com/qdrant/qdrant)
 
-**[Jan](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-jan.html)** Chat UIApache-2.0
+**[Jan](https://ai.andreiturcea.com/tool-jan.html)** Chat UIApache-2.0
 Offline ChatGPT alternative desktop app. · [GitHub](https://github.com/janhq/jan)
 
-**[Perplexica](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-perplexica.html)** SearchMIT
+**[Perplexica](https://ai.andreiturcea.com/tool-perplexica.html)** SearchMIT
 Self-hosted AI search engine. · [GitHub](https://github.com/ItzCrazyKns/Perplexica)
 
 ## Which comparison guides are available?
-[Best self-hosted ChatGPT alternatives](https://andreiturcea-creator.github.io/selfhost-ai-dir/best-self-hosted-chatgpt-alternatives.html)[Ollama vs llama.cpp vs vLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/ollama-vs-llama-cpp-vs-vllm.html)[Open WebUI vs LibreChat vs AnythingLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/open-webui-vs-librechat-vs-anythingllm.html)
+[Best self-hosted ChatGPT alternatives](https://ai.andreiturcea.com/best-self-hosted-chatgpt-alternatives.html)[Ollama vs llama.cpp vs vLLM](https://ai.andreiturcea.com/ollama-vs-llama-cpp-vs-vllm.html)[Open WebUI vs LibreChat vs AnythingLLM](https://ai.andreiturcea.com/open-webui-vs-librechat-vs-anythingllm.html)
 
 ## Which tool categories are covered?
-[Agent builder](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-agent-builder.html)[Automation](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-automation.html)[Chat UI](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-chat-ui.html)[Image gen](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-image-gen.html)[LLM runtime](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-llm-runtime.html)[Observability](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-observability.html)[RAG](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-rag.html)[Search](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-search.html)[Speech](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-speech.html)[Vector DB](https://andreiturcea-creator.github.io/selfhost-ai-dir/cat-vector-db.html)
+[Agent builder](https://ai.andreiturcea.com/cat-agent-builder.html)[Automation](https://ai.andreiturcea.com/cat-automation.html)[Chat UI](https://ai.andreiturcea.com/cat-chat-ui.html)[Image gen](https://ai.andreiturcea.com/cat-image-gen.html)[LLM runtime](https://ai.andreiturcea.com/cat-llm-runtime.html)[Observability](https://ai.andreiturcea.com/cat-observability.html)[RAG](https://ai.andreiturcea.com/cat-rag.html)[Search](https://ai.andreiturcea.com/cat-search.html)[Speech](https://ai.andreiturcea.com/cat-speech.html)[Vector DB](https://ai.andreiturcea.com/cat-vector-db.html)
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/ollama-vs-llama-cpp-vs-vllm.html -->
+<!-- https://ai.andreiturcea.com/ollama-vs-llama-cpp-vs-vllm.html -->
 # Ollama vs llama.cpp vs vLLM: which local LLM runtime? | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/ollama-vs-llama-cpp-vs-vllm.html
+Source: https://ai.andreiturcea.com/ollama-vs-llama-cpp-vs-vllm.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Use Ollama for the easiest local setup, llama.cpp for CPU, edge devices and fine control, and vLLM for high-throughput GPU serving to many users.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/ollama-vs-llama-cpp-vs-vllm.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/ollama-vs-llama-cpp-vs-vllm.html.md)
 
-|  | [Ollama](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-ollama.html) | [llama.cpp](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-llama.cpp.html) | [vLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-vllm.html) |
+|  | [Ollama](https://ai.andreiturcea.com/tool-ollama.html) | [llama.cpp](https://ai.andreiturcea.com/tool-llama.cpp.html) | [vLLM](https://ai.andreiturcea.com/tool-vllm.html) |
 |---|---|---|---|
 | Best for | Easiest local setup | CPU, edge devices, full control | High-throughput GPU serving |
 | Hardware | CPU or GPU | CPU or GPU | GPU |
 | Licence | MIT | MIT | Apache-2.0 |
 | Repo | [ollama/ollama](https://github.com/ollama/ollama) | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | [vllm-project/vllm](https://github.com/vllm-project/vllm) |
 
-Rule of thumb: start with Ollama, drop to llama.cpp when you need fine control or very low resources, and move to vLLM when many users hit one GPU server. [LocalAI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-localai.html) is another OpenAI-compatible option. Add a UI from the [ChatGPT alternatives](https://andreiturcea-creator.github.io/selfhost-ai-dir/best-self-hosted-chatgpt-alternatives.html) list.
+Rule of thumb: start with Ollama, drop to llama.cpp when you need fine control or very low resources, and move to vLLM when many users hit one GPU server. [LocalAI](https://ai.andreiturcea.com/tool-localai.html) is another OpenAI-compatible option. Add a UI from the [ChatGPT alternatives](https://ai.andreiturcea.com/best-self-hosted-chatgpt-alternatives.html) list.
 
 ## Frequently asked questions
 
@@ -381,24 +381,24 @@ When you serve many concurrent requests on a GPU. vLLM is built for high-through
 All three can expose an HTTP API that many OpenAI-compatible clients can use. Check each project's docs for the exact endpoints.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/open-webui-vs-librechat-vs-anythingllm.html -->
+<!-- https://ai.andreiturcea.com/open-webui-vs-librechat-vs-anythingllm.html -->
 # Open WebUI vs LibreChat vs AnythingLLM (self-hosted chat UIs) | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/open-webui-vs-librechat-vs-anythingllm.html
+Source: https://ai.andreiturcea.com/open-webui-vs-librechat-vs-anythingllm.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Open WebUI is the usual ChatGPT-style UI for Ollama, LibreChat is best for mixing many API providers with agents, and AnythingLLM is built around chatting with your documents (RAG).
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/open-webui-vs-librechat-vs-anythingllm.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/open-webui-vs-librechat-vs-anythingllm.html.md)
 
-|  | [Open WebUI](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-open-webui.html) | [LibreChat](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-librechat.html) | [AnythingLLM](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html) |
+|  | [Open WebUI](https://ai.andreiturcea.com/tool-open-webui.html) | [LibreChat](https://ai.andreiturcea.com/tool-librechat.html) | [AnythingLLM](https://ai.andreiturcea.com/tool-anything-llm.html) |
 |---|---|---|---|
 | Focus | ChatGPT-style UI, Ollama-friendly | Multi-provider chat + agents | All-in-one RAG over documents |
 | Licence (as listed) | BSD-3 | MIT | MIT |
 | Repo | [open-webui](https://github.com/open-webui/open-webui) | [LibreChat](https://github.com/danny-avila/LibreChat) | [anything-llm](https://github.com/Mintplex-Labs/anything-llm) |
 
-All three run in Docker on a modest VPS. The model runtime is the heavy part: see [runtimes compared](https://andreiturcea-creator.github.io/selfhost-ai-dir/ollama-vs-llama-cpp-vs-vllm.html). For document search at scale add [Qdrant](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-qdrant.html).
+All three run in Docker on a modest VPS. The model runtime is the heavy part: see [runtimes compared](https://ai.andreiturcea.com/ollama-vs-llama-cpp-vs-vllm.html). For document search at scale add [Qdrant](https://ai.andreiturcea.com/tool-qdrant.html).
 
 ## Frequently asked questions
 
@@ -415,16 +415,16 @@ AnythingLLM is built around RAG over your files. Open WebUI also offers document
 LibreChat and AnythingLLM are listed as MIT. Open WebUI is listed as BSD-3; check its repository for any branding terms.
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html -->
+<!-- https://ai.andreiturcea.com/privacy.html -->
 # Privacy | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html
+Source: https://ai.andreiturcea.com/privacy.html
 Last updated: 2026-10-15
 
 
 **Short answer:** Privacy notice for SelfHostAI: no analytics, no ads, no personal data collected.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/privacy.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/privacy.html.md)
 
 Last updated 15 October 2026. This notice explains what happens to your information when you use SelfHostAI.
 
@@ -440,23 +440,23 @@ We do not ask for your name or email, we do not run analytics or advertising, an
 
 ## Changes
 
-If we ever add analytics, a newsletter, ads or anything else that collects personal data, we will update this page and the [cookies page](https://andreiturcea-creator.github.io/selfhost-ai-dir/cookies.html) first, and ask for consent where the law requires it.
+If we ever add analytics, a newsletter, ads or anything else that collects personal data, we will update this page and the [cookies page](https://ai.andreiturcea.com/cookies.html) first, and ask for consent where the law requires it.
 
 ## Your rights and contact
 
 Under UK GDPR you have rights over your personal data, including access and deletion. As we hold no personal data from browsing, there is normally nothing for us to give you. To get in touch, open an issue on the site's [GitHub repository](https://github.com/andreiturcea-creator/selfhost-ai-dir/issues) (issues are public, so do not include private details). You can also complain to the [Information Commissioner's Office](https://ico.org.uk/make-a-complaint/).
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html -->
+<!-- https://ai.andreiturcea.com/tool-anything-llm.html -->
 # AnythingLLM: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html
+Source: https://ai.andreiturcea.com/tool-anything-llm.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host AnythingLLM: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-anything-llm.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-anything-llm.html.md)
 
 All-in-one RAG desktop and Docker app.
 
@@ -474,16 +474,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 -
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-comfyui.html -->
+<!-- https://ai.andreiturcea.com/tool-comfyui.html -->
 # ComfyUI: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-comfyui.html
+Source: https://ai.andreiturcea.com/tool-comfyui.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host ComfyUI: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-comfyui.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-comfyui.html.md)
 
 Node-based image and video diffusion UI.
 
@@ -501,16 +501,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 -
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-dify.html -->
+<!-- https://ai.andreiturcea.com/tool-dify.html -->
 # Dify: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-dify.html
+Source: https://ai.andreiturcea.com/tool-dify.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Dify: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-dify.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-dify.html.md)
 
 LLM app and agent builder platform.
 
@@ -528,16 +528,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 Flowise
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-flowise.html -->
+<!-- https://ai.andreiturcea.com/tool-flowise.html -->
 # Flowise: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-flowise.html
+Source: https://ai.andreiturcea.com/tool-flowise.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Flowise: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-flowise.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-flowise.html.md)
 
 Drag-and-drop LLM flows.
 
@@ -555,16 +555,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 Dify
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-jan.html -->
+<!-- https://ai.andreiturcea.com/tool-jan.html -->
 # Jan: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-jan.html
+Source: https://ai.andreiturcea.com/tool-jan.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Jan: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-jan.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-jan.html.md)
 
 Offline ChatGPT alternative desktop app.
 
@@ -582,16 +582,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 Open WebUI, LibreChat
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-langfuse.html -->
+<!-- https://ai.andreiturcea.com/tool-langfuse.html -->
 # Langfuse: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-langfuse.html
+Source: https://ai.andreiturcea.com/tool-langfuse.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Langfuse: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-langfuse.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-langfuse.html.md)
 
 LLM observability and evals.
 
@@ -609,16 +609,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 -
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-librechat.html -->
+<!-- https://ai.andreiturcea.com/tool-librechat.html -->
 # LibreChat: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-librechat.html
+Source: https://ai.andreiturcea.com/tool-librechat.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host LibreChat: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-librechat.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-librechat.html.md)
 
 Multi-provider chat UI with agents.
 
@@ -636,16 +636,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 Open WebUI, Jan
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-llama.cpp.html -->
+<!-- https://ai.andreiturcea.com/tool-llama.cpp.html -->
 # llama.cpp: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-llama.cpp.html
+Source: https://ai.andreiturcea.com/tool-llama.cpp.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host llama.cpp: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-llama.cpp.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-llama.cpp.html.md)
 
 LLM inference in C/C++, runs on CPU.
 
@@ -663,16 +663,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 Ollama, LocalAI, vLLM
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-localai.html -->
+<!-- https://ai.andreiturcea.com/tool-localai.html -->
 # LocalAI: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-localai.html
+Source: https://ai.andreiturcea.com/tool-localai.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host LocalAI: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-localai.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-localai.html.md)
 
 OpenAI-compatible API server for local models.
 
@@ -690,16 +690,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 Ollama, vLLM, llama.cpp
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-n8n.html -->
+<!-- https://ai.andreiturcea.com/tool-n8n.html -->
 # n8n: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-n8n.html
+Source: https://ai.andreiturcea.com/tool-n8n.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host n8n: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-n8n.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-n8n.html.md)
 
 Workflow automation with AI agent nodes; fair-code licence.
 
@@ -717,16 +717,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 -
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-ollama.html -->
+<!-- https://ai.andreiturcea.com/tool-ollama.html -->
 # Ollama: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-ollama.html
+Source: https://ai.andreiturcea.com/tool-ollama.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Ollama: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-ollama.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-ollama.html.md)
 
 Run LLMs locally with a single command.
 
@@ -744,16 +744,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 LocalAI, vLLM, llama.cpp
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-open-webui.html -->
+<!-- https://ai.andreiturcea.com/tool-open-webui.html -->
 # Open WebUI: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-open-webui.html
+Source: https://ai.andreiturcea.com/tool-open-webui.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Open WebUI: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-open-webui.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-open-webui.html.md)
 
 ChatGPT-style interface for local and API models.
 
@@ -771,16 +771,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 LibreChat, Jan
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-perplexica.html -->
+<!-- https://ai.andreiturcea.com/tool-perplexica.html -->
 # Perplexica: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-perplexica.html
+Source: https://ai.andreiturcea.com/tool-perplexica.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Perplexica: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-perplexica.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-perplexica.html.md)
 
 Self-hosted AI search engine.
 
@@ -798,16 +798,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 -
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-qdrant.html -->
+<!-- https://ai.andreiturcea.com/tool-qdrant.html -->
 # Qdrant: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-qdrant.html
+Source: https://ai.andreiturcea.com/tool-qdrant.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Qdrant: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-qdrant.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-qdrant.html.md)
 
 Vector database.
 
@@ -825,16 +825,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 -
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-vllm.html -->
+<!-- https://ai.andreiturcea.com/tool-vllm.html -->
 # vLLM: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-vllm.html
+Source: https://ai.andreiturcea.com/tool-vllm.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host vLLM: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-vllm.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-vllm.html.md)
 
 High-throughput LLM serving engine.
 
@@ -852,16 +852,16 @@ See the official README for Docker or binary install. A 2 vCPU / 4 GB VPS runs m
 Ollama, LocalAI, llama.cpp
 
 
-<!-- https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-whisper.cpp.html -->
+<!-- https://ai.andreiturcea.com/tool-whisper.cpp.html -->
 # Whisper.cpp: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-whisper.cpp.html
+Source: https://ai.andreiturcea.com/tool-whisper.cpp.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Whisper.cpp: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-whisper.cpp.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-whisper.cpp.html.md)
 
 Local speech-to-text.
 

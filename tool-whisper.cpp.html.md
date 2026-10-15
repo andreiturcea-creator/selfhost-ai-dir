@@ -1,12 +1,12 @@
 # Whisper.cpp: self-hosting guide & alternatives | SelfHostAI
 
-Source: https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-whisper.cpp.html
+Source: https://ai.andreiturcea.com/tool-whisper.cpp.html
 Last updated: 2026-10-15
 
 
 **Short answer:** How to self-host Whisper.cpp: requirements, licence and alternatives.
 
-Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://andreiturcea-creator.github.io/selfhost-ai-dir/tool-whisper.cpp.html.md)
+Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check applies; tool details come from each project's public GitHub repository · [Markdown version](https://ai.andreiturcea.com/tool-whisper.cpp.html.md)
 
 Local speech-to-text.
 
