@@ -3,6 +3,9 @@
 Source: https://ai.andreiturcea.com/
 Last updated: 2026-10-15
 
+Open-source AI you can run yourself
+
+# Self-hostable AI tools, ranked and kept fresh
 
 **Short answer:** SelfHostAI lists 16 open-source AI tools you can run on your own machine or VPS, such as Ollama, Open WebUI, vLLM, llama.cpp, n8n, Dify and Qdrant, with licence, category and GitHub link for each.
 
@@ -11,6 +14,8 @@ Last updated: 15 October 2026 · No tax figures on this site, so no GOV.UK check
 Open-source AI you can run on your own VPS or laptop. Stars and activity refresh every day from GitHub.
 
 **Featured listings: coming soon** (£49/month, always labelled). [Advertise](https://ai.andreiturcea.com/advertise.html)
+
+## Directory
 
 **[Ollama](https://ai.andreiturcea.com/tool-ollama.html)** LLM runtimeMIT
 Run LLMs locally with a single command. · [GitHub](https://github.com/ollama/ollama)
